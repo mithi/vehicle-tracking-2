@@ -1,6 +1,7 @@
 Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
 
-Version 2 uses the following parameters for feature extraction
+**Version 2 uses the following parameters for feature extraction**
+
 ```
 feature_params = {
   'color_model': 'yuv',                # hls, hsv, yuv, ycrcb
@@ -13,7 +14,7 @@ feature_params = {
 # [3 x 3 block positions] x [2 x 2 cells per block] x [11 orientations] x [3 channels] = 1,188 features
 ```
 
-Version 1 uses the following parameters for feature extraction
+**Version 1 uses the following parameters for feature extraction**
 ```
 feature_params = {
   'color_model': 'hls',                # hls, hsv, yuv, ycrcb
