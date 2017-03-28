@@ -1,5 +1,9 @@
 Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
 
+------
+https://medium.com/@mithi/vehicles-tracking-with-hog-and-linear-svm-c9f27eaf521a
+------
+
 **Version 2 uses the following parameters for feature extraction**
 
 ```
