@@ -38,7 +38,7 @@ feature_params = {
 ## SAMPLE USAGE
 
 To run any notebook properly, copy the jupyter notebooks from the `/ipynb` folder to the root directory.
-This is so that each notebook sees to see relevant files, the most relevant files being the python classes.
+This is so that each notebook sees relevant files, the most relevant files being the python classes.
 
 - classifier_training.ipynb
 - feature_sourcer_test.ipynb
