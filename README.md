@@ -53,6 +53,4 @@ This is so that each notebook sees relevant files, the most relevant files being
 - slider.py
 - heatmap.py
 
-## VERSION 1
-- https://github.com/mithi/vehicle-tracking/
-- https://github.com/mithi/vehicle-tracking/blob/master/WRITEUP.pdf
+## [VERSION 1](./A-VEHICLE-TRACKING/)
